@@ -1,1 +1,4 @@
 flask == 1.0.2
+flask-wtf == 0.14.2
+pandas==0.23.4
+qsmdb==0.0.2
